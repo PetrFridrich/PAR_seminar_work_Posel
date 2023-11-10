@@ -1,0 +1,10 @@
+
+
+S(\vec{q}) = \frac{1}{N} \left[\left(\sum_{j=1}^{N} \cos(\vec{q} \cdot \vec{r}_j)\right)^2 + \left(\sum_{j=1}^{N} \sin(\vec{q} \cdot \vec{r}_j)\right)^2\right]
+
+
+q(i,j) = \left(\frac{2\pi}{Lx}ix ; \frac{2\pi}{Ly}iy ; \frac{2\pi}{Lz}iz \right)
+	
+	
+	
+	
